@@ -1,23 +1,135 @@
-# Compiled class file
-*.class
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Favorite Musician Polo G</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Roboto&display=swap" rel="stylesheet">
 
-# Log file
-*.log
+</head>
+<body>
+<style>
+    body {background-color: #EDEA;}
 
-# BlueJ files
-*.ctxt
+    h1 {
+        color:#026670 ;
+        font-family:'Lato', sans-serif;
+        font-size: 60px;text-align: center;
+    }
+    p {
+        color: black;
+        font-family:'Lato', sans-serif;
+        font-size: 35px;
+    }
+    h2{
+        color: #026670;
+        font-family:'Lato', sans-serif;
+        font-size: 50px;
+    }
+    h3{
+        color:#026670;
+        font-family:'Lato', sans-serif;
+        font-size: 50px;
+    }
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
+    a:link {
+        color: black;
+    }
 
-# Package Files #
-*.jar
-*.war
-*.nar
-*.ear
-*.zip
-*.tar.gz
-*.rar
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+    a:visited {
+        color: #9FEDD7;
+    }
+
+
+    a:hover {
+        color:#9FEDD7;
+    }
+
+
+    a:active {
+        color:#9FEDD7;
+    }
+</style>
+
+<h1>My Favorite Musician Polo G</h1>
+<hr>
+
+<p><a href="https://en.wikipedia.org/wiki/Polo_G">Polo G</a> grew up in the North Side of Chicago at the Marshall Field Garden Apartments housing projects with his mother, father, and three other siblings. Now that he's blossomed into a young rap heavyweight, he's decided to use his success to drastically change the living situation for his family by buying his mother a brand new mansion.
+</p>
+<img src="https://i1.sndcdn.com/avatars-AKRXKanIzfqQo4Yi-bCQw1g-t500x500.jpg">
+
+<h2><u>History Of Polo G</u></h2>
+<p>Born in 1999 and raised in the rough Cabrini-Green neighborhood of northern Chicago,<a href="https://en.wikipedia.org/wiki/Polo_G">Polo G</a> was rapping by the time he was a teenager. His earliest songs appeared online in 2017, but it wasn't until his breakout single "Finer Things" that the rapper began to really take off. The motivational song was written when Polo was incarcerated, and once he was free, he recorded it and made an accompanying video, which immediately caught the attention of millions.
+    Things moved quickly from there, as a record contract with Columbia Records soon followed and more singles were released to similar excitement.</p>
+
+<img src="https://www.blockfest.fi/wp-content/uploads/2020/08/POLO_G-615x615.jpg">
+<h3><u>The Reason Why Polo G Is My Favorite</u> </h3>
+<p> The reason why Polo G is my favorite artist is because he keeps it real in all of his song.What I mean by that is he actually tells the truth about what he did and what he has been through. I say this because most reppers just lie about all of their songs.
+Like for instance when he talks about the police brutality and how he doesnt feel free or protected in America.He also talks about his city which is Chicago which is one of the cities known for alot of murders and homicides. Being from that he gives you a perspective of himself and whats its like to come from the hood in chicago.  </p>
+<hr>
+
+<h2><u>Polo G Most Popular Albums</u></h2>
+<table border="1">
+    <tr> <img src="https://media.pitchfork.com/photos/5d006ac2f605607c354d37aa/1:1/w_320/39fa1f0ccafe731f2ee88d0b98401aba.633x633x1.png">
+        <img src="https://upload.wikimedia.org/wikipedia/en/f/f1/Polo_G_-_The_Goat.png" width="320" height="320">
+        <th width="315"><u>Die A Legend</u></th>
+        <td width="315"><u><b>The Goat</b></u></td>
+    </tr>
+
+
+<tr>
+   <th>Lost Files</th>
+    <td><b>Dont Believe The Hype</b></td>
+</tr>
+    <tr>
+        <th>Battle Cry</th>
+        <td><b>Heartless</b></td>
+    </tr>
+    <tr>
+        <th>BST</th>
+        <td><b>Martin&Gina</b></td>
+    </tr>
+    <tr>
+        <th>Dyin Breed</th>
+        <td><b>Chinatown</b></td>
+    </tr>
+    <tr>
+        <th>Effortless</th>
+        <td><b>Losin My MInd</b></td>
+    </tr>
+    <tr>
+        <th>Pop Out</th>
+        <td><b>33</b></td>
+    </tr>
+    <tr>
+        <th>Finer Things</th>
+        <td><b>21</b></td>
+    </tr>
+</table>
+    <table border="1" width="100%" height="400px">
+        <tr>
+            <th><img src="https://static.billboard.com/files/2020/05/polo-g-2020-cr-uta-billboard-1548-1590780344-compressed.jpg" width="548" height="324"></th>
+            <th><img src="https://www.rollingstone.com/wp-content/uploads/2020/10/RS-PUMA-G015c.jpg?w=1024"width="524" height="326"></th>
+            <th><img src="https://themusicnetwork.com/wp-content/uploads/Polo-G.png"width="472" height="337"></th>
+            <th><img src="https://www.rollingstone.com/wp-content/uploads/2021/04/032321-Polo-G-0226-Shot-2.jpg"width="530"height="320"></th>
+        </tr>
+        <tr>
+            <th><img src="https://www.musicconnection.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-09-at-5.20.39-PM.png"width="500"height="367"></th>
+            <td><img src="https://www.nme.com/wp-content/uploads/2020/05/Polo-G-696x442.jpg"width="596"height="342"></td>
+            <td><img src="https://townsquare.media/site/812/files/2021/04/polo-g-rapstar.jpg?w=980&q=75"width="480"height="353"></td>
+            <td colspan="3"><img src="https://media.pitchfork.com/photos/606f639f51f5433642af2772/4:3/w_1064,h_798,c_limit/Polo-G.jpg"width="564" height="398"></td>
+
+        <tr>
+            <th><img src="https://images.complex.com/complex/images/c_crop,h_2954,w_4469,x_0,y_330/c_fill,f_auto,g_center,w_1200/fl_lossy,pg_1/ynbxjk5krk2ntaemqcft/polo-g-rapstar-daniel-prakopcyk-1"width="520" height="393"></th>
+            <th><img src="https://consequence.net/wp-content/uploads/2020/05/Polo-G.jpg?quality=80"width="580" height="320"></th>
+            <th><img src="https://consequence.net/wp-content/uploads/2021/04/polo-g-rapstar-new-song-video-stream.jpg?quality=80&w=1031&h=580&crop=1&resize=1031%2C580&strip"width="532"height="380"></th>
+            <th><img src="https://static.hiphopdx.com/2019/11/polog-e1574474866852-827x620.jpg"width="420" height="320"></th>
+        </tr>
+    </table>
+
+
+
+
+</body>
+</html>
